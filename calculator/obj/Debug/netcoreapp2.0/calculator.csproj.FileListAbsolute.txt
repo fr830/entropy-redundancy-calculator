@@ -1,0 +1,11 @@
+/home/franciscohanna92/Facultad/teoria-informacion/practico1/entropy_redundancy_calculator/calculator/bin/Debug/netcoreapp2.0/calculator.deps.json
+/home/franciscohanna92/Facultad/teoria-informacion/practico1/entropy_redundancy_calculator/calculator/bin/Debug/netcoreapp2.0/calculator.runtimeconfig.json
+/home/franciscohanna92/Facultad/teoria-informacion/practico1/entropy_redundancy_calculator/calculator/bin/Debug/netcoreapp2.0/calculator.runtimeconfig.dev.json
+/home/franciscohanna92/Facultad/teoria-informacion/practico1/entropy_redundancy_calculator/calculator/bin/Debug/netcoreapp2.0/calculator.dll
+/home/franciscohanna92/Facultad/teoria-informacion/practico1/entropy_redundancy_calculator/calculator/bin/Debug/netcoreapp2.0/calculator.pdb
+/home/franciscohanna92/Facultad/teoria-informacion/practico1/entropy_redundancy_calculator/calculator/obj/Debug/netcoreapp2.0/calculator.csprojAssemblyReference.cache
+/home/franciscohanna92/Facultad/teoria-informacion/practico1/entropy_redundancy_calculator/calculator/obj/Debug/netcoreapp2.0/calculator.csproj.CoreCompileInputs.cache
+/home/franciscohanna92/Facultad/teoria-informacion/practico1/entropy_redundancy_calculator/calculator/obj/Debug/netcoreapp2.0/calculator.AssemblyInfoInputs.cache
+/home/franciscohanna92/Facultad/teoria-informacion/practico1/entropy_redundancy_calculator/calculator/obj/Debug/netcoreapp2.0/calculator.AssemblyInfo.cs
+/home/franciscohanna92/Facultad/teoria-informacion/practico1/entropy_redundancy_calculator/calculator/obj/Debug/netcoreapp2.0/calculator.dll
+/home/franciscohanna92/Facultad/teoria-informacion/practico1/entropy_redundancy_calculator/calculator/obj/Debug/netcoreapp2.0/calculator.pdb
